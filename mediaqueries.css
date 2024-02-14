@@ -49,7 +49,7 @@
         height: 40vh;
     }
     #profile {
-        height: auto;
+        height: fit-content;
         margin-bottom: 0;
     }
     #article {
